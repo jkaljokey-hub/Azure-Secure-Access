@@ -67,7 +67,7 @@ Azure Bastion for secure RDP/SSH
 Example:
 
 Code
-![Architecture Diagram](architecture-diagram.png)
+
 📁 Repository Structure
 Code
 /azure-secure-access-lab
