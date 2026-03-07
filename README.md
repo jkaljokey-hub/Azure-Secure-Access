@@ -3,6 +3,7 @@ A fully deployed secure Azure network architecture using Bicep and Infrastructur
 This project demonstrates private access, network segmentation, firewall filtering, and secure VM access using Azure Bastion.
 
 🚀 Project Overview
+
 This lab implements a production‑style secure network environment in Azure.
 The goal is to ensure all workloads communicate privately, securely, and through controlled paths.
 
