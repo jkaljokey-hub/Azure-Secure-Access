@@ -3,6 +3,9 @@
 A fully deployed secure Azure network architecture using Bicep and Infrastructure‑as‑Code (IaC).
 This project demonstrates private access, network segmentation, firewall filtering, and secure VM access using Azure Bastion.
 
+ ## 📊 Architecture Diagram
+
+![ERP Azure Architecture](https://github.com/jkaljokey-hub/Azure-Secure-Access/blob/main/images/1772927240737.jpeg?raw=true)
 🚀 Project Overview
 
 This lab implements a production‑style secure network environment in Azure.
